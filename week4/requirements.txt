@@ -1,3 +1,6 @@
 emoji
 pyfiglet
 inflect
+requests
+python-dotenv
+

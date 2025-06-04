@@ -3,5 +3,5 @@ pyfiglet
 inflect
 requests
 tabulate
-
+Pillow
 

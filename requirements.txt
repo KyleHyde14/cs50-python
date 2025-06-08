@@ -4,4 +4,4 @@ inflect
 requests
 tabulate
 Pillow
-
+validator-collection

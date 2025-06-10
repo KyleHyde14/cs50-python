@@ -5,3 +5,5 @@ requests
 tabulate
 Pillow
 validator-collection
+fpdf2
+
